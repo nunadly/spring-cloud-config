@@ -7,7 +7,7 @@
 #     # password: '{cipher}AQAr9NQIoo9Da3191Z8ivoBog+GP9GL/qSbJllf58X3UXBHYkv14zLn8BRBl9xPzE7Dcc5seAFnlYC79FM3ZeAkut70zHXwddOrPj86t3Q70wFla7XwzMvzeBqUwDGkcKyFJbrvSms/+gWEB8169UNVR/SDEO1se+vxVLlNcwLp2ooPWkw698jRR8lZs/SKcv0XjbAziiR374XsELm0DFN0+/VWu2kKZU7Kw5XaxiGup6fz0KGzYxahP3lLC4dy4wNcknD3b64pDgVZNvNDfGQrBGP35H5/KuQkGJgbM+1oQ3VQmq+qnCSYeDWGsMu1LfimZBM63OBGb3kIlEnBNAr5Y08casp8nkYeyFVzkZ4uCXbWwJdei++iYqbLzQscczw0='
 spring:
   datasource:
-    url: jdbc:mariadb://mariadb:13306/mydb
+    url: jdbc:mariadb://mariadb:3306/mydb
     driver-class-name: org.mariadb.jdbc.Driver
     username: root
     password: test1234
